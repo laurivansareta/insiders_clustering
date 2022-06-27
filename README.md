@@ -66,9 +66,9 @@ O conjunto de dados inclui as seguintes informações:
 
 **Etapa 01. Descrição dos dados:**
 
-**Etapa 02. Feature Engineering:**
+**Etapa 02. Filtragem de Variáveis:**
 
-**Etapa 03. Filtragem de Variáveis:**
+**Etapa 03. Feature Engineering:**
 
 **Etapa 04. Análise Exploratória de Dados - EDA:**
 
