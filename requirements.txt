@@ -1,0 +1,4 @@
+yellowbrick==1.4
+umap-learn==0.5.3
+ipywidgets==7.7.1
+pandas-profiling==3.2.0
