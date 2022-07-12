@@ -1,3 +1,5 @@
+![](/img/fidelizacao.jpg)
+
 # Programa de fidelidade Insiders
 
 Disclaimer: O contexto a seguir é completamente fictício, a empresa, o contexto, o CEO, as perguntas de negócio existem somente na minha imaginação. 
